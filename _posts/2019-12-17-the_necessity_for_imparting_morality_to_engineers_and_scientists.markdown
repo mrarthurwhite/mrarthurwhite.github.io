@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "The necessity for imparting Morality to Engineers & Scientists"
-date:       2019-12-17 05:42:30 +0000
+date:       2019-12-17 00:42:31 -0500
 permalink:  the_necessity_for_imparting_morality_to_engineers_and_scientists
 ---
 
 
-As I went through my undergrad I had news swirling around me of western scientists and engineers who "only wanted to bring their creation to life" . Some of them defected and offered their services to foreign government and were subsequently hunted down and dispatched (unfortunately).
+As I went through my undergrad I had news swirling around me of western scientists and engineers who "only wanted to bring their creation to life" . Some of them defected and offered their services to foreign governments and were subsequently hunted down and dispatched (unfortunately).
 
-I did not understand why some people was trying to impart these anecdotes to me. Then I realized that it was widely assumed that a sense of "loyalty" and even morality was rather alient to engineers. 
+I did not understand why some people were trying to impart these anecdotes to me. Then I realized that it was widely assumed that a sense of "loyalty" and even morality was rather alient to engineers. 
 
 It begins with Archimedes the father of engineers and scientists. He created historically significant innovations and even employed his talents in the defense of his city of Syracuse. But he stands accused of offering his talents to captor of Syracuse the Roman general Marcellus.  It is disputed what or who may have caused his death. Some say that he was killed a Roman soldier who did not recognize him but some imply that it was but the penalty he received for allegedly offering his services to the conquering Romans. 
 
