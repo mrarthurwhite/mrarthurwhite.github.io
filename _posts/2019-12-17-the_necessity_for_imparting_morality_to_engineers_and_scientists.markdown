@@ -1,0 +1,29 @@
+---
+layout: post
+title:      "The necessity for imparting Morality to Engineers & Scientists"
+date:       2019-12-17 05:42:30 +0000
+permalink:  the_necessity_for_imparting_morality_to_engineers_and_scientists
+---
+
+
+As I went through my undergrad I had news swirling around me of western scientists and engineers who "only wanted to bring their creation to life" . Some of them defected and offered their services to foreign government and were subsequently hunted down and dispatched (unfortunately).
+
+I did not understand why some people was trying to impart these anecdotes to me. Then I realized that it was widely assumed that a sense of "loyalty" and even morality was rather alient to engineers. 
+
+It begins with Archimedes the father of engineers and scientists. He created historically significant innovations and even employed his talents in the defense of his city of Syracuse. But he stands accused of offering his talents to captor of Syracuse the Roman general Marcellus.  It is disputed what or who may have caused his death. Some say that he was killed a Roman soldier who did not recognize him but some imply that it was but the penalty he received for allegedly offering his services to the conquering Romans. 
+
+Then there are others after Archimedes. Then there is the Austrian/E. European gentleman (Mr. Urban) who offered his services to the Ottomans who then used the cannon to capture Constantinople. 
+
+But recently engineers and scientists have begun to become ponder the consequences of their creations. There is Mikhail Kalashnikov who regrets his innovation and wonders out loud how "an invention to defend the motherland fell into the hands of insurgents globally". There is Alfred Nobel who was so unhappy with the injurious ways of using dynamite (an abuse of his invention) that he established the Nobel prizes to be bestowed upon those who confer "the greatest benefit to humankind". Then there is ofcourse the German rocket scientist Wernher von Braun who regretted how the rockets meant for the moon landed instead upon the innocents of England (during WW2). 
+
+In modern history we see scientists and engineers set morality aside to bring about their creations. A famous and recent example is that of Mark Zuck--berg (chronicled in the social network). Meanwhile stories about Page, Brin (of Google) and Uber's founder (Travis Kalanick) prevade. All adept with the technical side of life and doing everything (by hook or crook) to bring their creations to the public.
+
+These last few instances in particular make it necessary that engineers and scientists receive a first class moral education. But who will do that for them ? Engineers and scientists are akin to soldiers - they are given problems to solve and they are expected to obey. It does not make sense to people that a German soldier will blindly follow orders when asked to execute innocents. But a soldier's education is nothing compared to that of a PhD or the average scientist or engineer. And yet engineers and scientists continue to make inventions which are unpleasant and NOT of the greatest benefit to life nor matter. Scientists and engineers even in the civilian sector seem to set aside morality - whether it is Mark Zuck--berg who hacks the directory to create his version of "hor or not" or uses the idea proposed by the Winklevoss twins (in both cases he got into trouble with Harvard's administration ).
+
+Why is this ? Why are both the military and scientific classes not as morally educated as say the lawyers, MBAs or even actors (who are exposed to every morality through stories and their study of human behavior and humankind). Perhaps, both the scientific classes and the military classes usually come from the low to middle classes and for the middle classes and lower morality comes after pragmatic concerns. 
+
+To this day I yearn to complete my study of Plato and Aristotle and Locke. I have read a few works of Plato it was intoxicating. I read Adam Smith (a moral philosopher) and it changed my life and I found a light I could adore (and I did not even read his moral work like Theory of Moral Sentiments but his most material work the wealth of nations). I have yet to finish the two treatises of Locke on Government (have last 50 pages to go on the second treatise). I ran into Plutarch's Moralia and have yet to finish it. I don't have the faintest clue of Kant's works (but perhaps know a few Cliff notes concepts) - Kant a thinker familiar to the fairest 1% of the population. There are thinkers I have no idea about some whose works are so abstruse (so dense) and so inaccessible (like Kant & Nagle). 
+
+The world that I inhabit seems like a land thirsting for good - good thinking, the best of deeds and the highest of spirits. I feel like David pleading for salvation, for redemption, for sanctuary, for peace, for love, for the promised crown, for the laws of the Most High so I may be washed of my ignorance and "become as white as snow". Is the way to the Kingdom of Heaven by way of moral laws and the mind of God - the law that is closest to the heart of God (writ upon the law library at Harvard). For those of us who may not have access, one avenue to love or even morality is to visit houses of worship and listen to the theologians - those who have a direct line to the Most High and those who impart morality and more. 
+
+The Christians in particular feel that salvation is not through the law but through love and that is the most appealing outlook. For I would rather rest and know that I am loved than keep yearning for morality, perhaps, to put an end to the search and to (as the Irish say) let love come to you, let it find you. As I went through my undergrad I had news swirling around me of western scientists and engineers who "only wanted to bring their creation to life" 
