@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I am Interested in Software Engineering"
-date:       2019-12-09 16:38:32 +0000
+date:       2019-12-09 11:38:33 -0500
 permalink:  why_i_am_interested_in_software_engineering
 ---
 
