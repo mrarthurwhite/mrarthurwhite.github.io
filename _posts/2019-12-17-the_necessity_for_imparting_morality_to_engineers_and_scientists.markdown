@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The necessity for imparting Morality to Engineers & Scientists"
+title:      "Imparting Morality to Engineers & Scientists"
 date:       2019-12-17 00:42:31 -0500
 permalink:  the_necessity_for_imparting_morality_to_engineers_and_scientists
 ---
