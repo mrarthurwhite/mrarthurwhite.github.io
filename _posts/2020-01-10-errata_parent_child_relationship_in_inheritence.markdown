@@ -6,7 +6,7 @@ permalink:  errata_parent_child_relationship_in_inheritence
 ---
 
 
-There is a [youtube video](https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-relationships/collaborating-objects-review) that goes over some inheritence ideas.
+There is a [youtube video](https://youtu.be/iYcQ693LXck) that goes over some inheritence ideas.
 
 At the mark 48:20 of the video above the legendary pedagogue and engineer extraordinaire says :
 > "Whatever is the first object is always considered the parent. An Author is the parent of a story in that an author has many ; we tend to think of the singular as being the parent so authors have many stories. But in here given that story is the main object"
