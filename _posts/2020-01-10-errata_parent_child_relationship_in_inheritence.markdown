@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Errata: Parent , Child Relationship in Inheritence"
-date:       2020-01-10 14:45:50 +0000
+title:      "Errata: Parent , Child Relationship in Inheritance"
+date:       2020-01-10 09:45:51 -0500
 permalink:  errata_parent_child_relationship_in_inheritence
 ---
 
