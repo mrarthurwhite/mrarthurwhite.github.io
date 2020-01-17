@@ -8,7 +8,7 @@ permalink:  media_hub_cli_application
 
 The least easy part of the application was to decide on whether to scrape vs. consuming an API. 
 
-When it came scraping data wikipedia was the top choice however the data I was interested in did not have clear identifying tags and I did not want to wrestle too much with merely extracting data.
+When it came to scraping data wikipedia was the top choice however the data I was interested in did not have clear identifying tags and I did not want to wrestle too much with merely extracting data.
 
 The next logical step was to choose an API that provided formatted data. So I looked at the available APIs. Nearly all the interesting APIs had authorization keys and hiding the key looked rather involved (since the app was to be published online on github).
 
