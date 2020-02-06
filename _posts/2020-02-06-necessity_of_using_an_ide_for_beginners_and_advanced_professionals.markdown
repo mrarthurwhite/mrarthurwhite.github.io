@@ -6,7 +6,7 @@ permalink:  necessity_of_using_an_ide_for_beginners_and_advanced_professionals
 ---
 
 
-This is perhaps the first step for every beginners. Most professionals already have advanced and even proprietary Integrated Development Environments (IDE) set up. Examples of popular IDEs are Eclipse, NetBeans, JetBrains, Atom, Visual Studio (Microsoft). 
+This is perhaps the first step for every beginner. Most professionals already have advanced and even proprietary Integrated Development Environments (IDE) set up. Examples of popular IDEs are Eclipse, NetBeans, JetBrains, Atom, Visual Studio (Microsoft). 
 
 However, sometimes beginners are discouraged by the misguided with regards to an IDE. It is however most important for beginners to have an IDE set up before they write a single line of code. Why? because an IDE is like a tutor, mentor, helper which holds your hand and guides you during software engineering or scientific endeavors. It helps point out missing semicolons and any errors in your syntax or minor oversights like the incorrect keyword use. It identifies these things and provides you with templates which a beginner needs in the beginning (because it is not recommended to memorize anything unless its Holy Scripture or Homer which were one and the same a long time ago, but really, particularly syntax and coding conventions ought never to be memorized by an engineer or scientist or inventor, because engineering/science/invention is above all a creative endeavor & not a mechanical one).
 
