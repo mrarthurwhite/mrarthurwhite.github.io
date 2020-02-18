@@ -26,4 +26,8 @@ One other minor source of concern was validation code. The requirements asked fo
 
 This particular feature can be viewed in the sign up page but validation is not universally implemented in my application. 
 
+Overall it did not take very long to do the application since it was based on work I had already done.
+
+The most rewarding aspect was perhaps the use of materialize CSS. Using the proper colors and buttons enriches not just the user experience but also the developer experience.
+
 
