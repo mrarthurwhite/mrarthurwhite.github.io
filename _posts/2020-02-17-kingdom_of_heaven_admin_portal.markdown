@@ -5,6 +5,8 @@ date:       2020-02-17 20:44:44 -0500
 permalink:  kingdom_of_heaven_admin_portal
 ---
 
+This application was done hastily and is a proof of concept. It illustrates an administration portal in the Kingdom of Heaven where angels and archangels are on missions to spread love, joy, peace , goodness throughout the world. I wrote this app because the Kingdom of Heaven has lately been on my mind.
+
 The app is a materialize CSS beautified MVC app using Sinatra with restful routes.
 
 It allows angels on missions to add/update/delete missions that are their own.
