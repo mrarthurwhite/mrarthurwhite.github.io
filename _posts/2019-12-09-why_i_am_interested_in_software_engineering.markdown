@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I am Interested in Software Engineering"
+title:      "Why I am Interested in (/like) Software Engineering"
 date:       2019-12-09 11:38:33 -0500
 permalink:  why_i_am_interested_in_software_engineering
 ---
@@ -8,10 +8,10 @@ permalink:  why_i_am_interested_in_software_engineering
 
 I am interested in software engineering because it helps me to create useful , good creations for the benefit of all matter.
 
-I had ideas about hardware and software projects but they seem to be mostly in prototype stage until I pick up the courage to show it to a trusted friend , after which the friend(s) confess that they have posted the idea on a forum or that they have disclosed it to someone else and that idea is now a multi billion dollar caricature of something I was working on (but never had the finances , time, peace, support to bring it to market) and then I watch someone else bring the idea & prototype to the market (after which I would watch forlornly from afar).
+I had ideas about hardware and software projects but'they seem to be mostly in prototype stage until I pick up the courage to show it to a trusted friend , after which the "friend(s)" confess that they have posted the idea on a forum or that they have disclosed it to someone else and that idea is now a multi billion dollar caricature of something I was working on (but never had the finances , time, peace, support to bring it to market) and then I watch someone else bring the idea & prototype to the market (after which I would watch forlornly from afar).
 
 
-As a result I am interested in other aspects of life like storytelling, acting, filmmaking, philosophy etc. but perhaps I don't want to disclose my likes and dislikes. My parents warned me as I grew up on various sheltered  military bases around the world (in the MidEast primarily) that I ought not to disclose what I liked or disliked because people will use it against me. I never encountered such a people until I came to a  specific part of the new world  where folk are innocent & so are the lands & yet (in a recently observed phenom thanks to some undesirable cultural imports from the 3rd world) where people actually do that to one another. They find out what annoys a person and then they harp on it to further exacerbate a situation, using their dislikes against them.  
+As a result I am interested in other aspects of life like storytelling, acting, filmmaking, philosophy etc. but perhaps I don't want to disclose my interests, likes and dislikes. My parents warned me as I grew up on various sheltered  military bases around the world (in the MidEast primarily) that I ought not to disclose what I liked or disliked because people will use it against me. I never encountered such a people until I came to a  specific part of the new world  where folk are innocent & so are the lands & yet (in a recently observed phenom thanks to some undesirable cultural imports from the 3rd world) where people actually do that to one another. They find out what annoys a person and then they harp on it to further exacerbate a situation, using their likes/dislikes against them.  
 
 For example I disclosed to a medical health professional that I did not wish to disclose personal information to her over the phone and this somehow made it to the larger health care community of the area (where everyone lives down the road from their cousins and went to the same high school as their college-roommates). From that point onwards every receptionist at a dermatologists or dentists would ask me about personal information teasingly even using phrases like, "I was not really discussing his personal information" etc. Phone calls to the health care providers only ended up with the health care providers getting in on it. 
 
