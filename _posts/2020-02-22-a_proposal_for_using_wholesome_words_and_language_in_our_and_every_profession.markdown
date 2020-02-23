@@ -15,3 +15,5 @@ Other terms that are epithets are "git" (in England it is a pejorative term and 
 Other unwholesome , non benign images in the profession are terms like "p-thon" an animal that is definitely non benign & unwholesome (and is the name of a language). May we perhaps invoke images of doves & butterflies instead perhaps? 
 
 I invite my esteemed colleagues to raise the level of dialogue in our profession and help create a more beautiful, fair, comely, lovely, loving, kinder, prosperous , easy world for all.
+
+Now I realize that there greater things which do want improvement. I for one would like to improve many a things about myself and the world & sometimes a bit of what is improper comes out of our mouths but we can and ought to I hope only have what is wholesome come out of us & dwell within us.
