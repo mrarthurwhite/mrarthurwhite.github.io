@@ -6,9 +6,9 @@ permalink:  a_proposal_for_using_wholesome_words_and_language_in_our_and_every_p
 ---
 
  
-I am certain people realize how important it is to avoid the useof profanities or obscenities. If Software Engineering (& Engineering Science) is a white collar profession with gentlemen and ladies engaging in this profession then we ought to avoid unwholesome, non-benign words, images, work & consequently creations, inventions. 
+I am certain people realize how important it is to avoid the useof profanities or obscenities. If Software Engineering (& Engineering Science) is a white collar profession with gentlemen and ladies engaging in this profession then we ought to avoid unwholesome, non-benign words, images  & consequently work, creations, inventions, discoveries etc. 
 
-I and perhaps many others are uncomfortable with acronyms like "Create.Read.Update.Delete". The word "cr-d" is a scatological term used in the South (I believe, specifically the lovely state of Tennessee where I first heard it) and is definitely a profane term. May we perhaps use something else ?  maybe something like "curd" - a delicious synonym for yogurt ? 
+For example, I and perhaps many others are uncomfortable with acronyms like "Create.Read.Update.Delete". The word "cr-d" is a scatological term used in the South (I believe, specifically the lovely state of Tennessee where I first heard it) and is definitely a profane term. May we perhaps use something else ?  maybe something like "curd" - a delicious synonym for yogurt ? 
 
 Other terms that are epithets are "git" (in England it is a pejorative term and people use it when verbally abusing people). May we use something like "get" (to denote getting from a source control repository?). 
 
