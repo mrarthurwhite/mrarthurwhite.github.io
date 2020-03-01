@@ -12,7 +12,7 @@ I have ideas about  projects which I hope to turn into global, multi billion dol
 
  I am interested in other aspects of life like storytelling, acting, filmmaking, philosophy etc. 
 
-As I complete my Masters in Management from Harvard I aim to become an investment banker (perhaps a managing director) primarily because of the nature of the work.
+As I complete my Masters in Management from Harvard I aim to become an investment banker (perhaps a managing director) primarily because I like the nature of the work. I am hoping that getting into the habit of writing software will prepare me for my entrance exams to a top Masters in Business Administration & Juris Doctor program.
 
 In the interim I am using my BS in Computer Engineering from UIUC & my MS from Columbia Univ. in Machine Learning & Computer Vision to find software engineering work, so I may remain free, virtuous, independent of impious influences and vices.  I look forward to interviewing like civilized people where offers are made after a pleasant conversation and things are easy & there is general attempt to beautify, improve , love, edify all matter. I am grateful that I am fortunate to be surrounded by a peoples (a nation, a hemisphere and a world) where people  make each other beautiful, comely, fair, wealthy, free, happy & prosperous so they may live and love & prosper.
 
