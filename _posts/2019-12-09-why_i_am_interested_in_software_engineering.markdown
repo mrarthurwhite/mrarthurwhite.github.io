@@ -10,11 +10,13 @@ I am interested in software engineering because it helps me to create useful , g
 
 I have ideas about  projects which I hope to turn into global, multi billion dollar entities. 
 
- I am interested in other aspects of life like storytelling, acting, filmmaking, philosophy etc. but perhaps I don't want to disclose my interests, likes and dislikes. 
+ I am interested in other aspects of life like storytelling, acting, filmmaking, philosophy etc. 
 
+As I complete my Masters in Management from Harvard I aim to become an investment banker (perhaps a managing director) primarily because of the nature of the work.
 
+In the interim I am using my BS in Computer Engineering from UIUC & my MS from Columbia Univ. in Machine Learning & Computer Vision to find software engineering work, so I may remain free, virtuous, independent of impious influences and vices. 
 
- If we are not attractive enough then make us so. If we are not attractive enough because there is something wrong with our morality or spirit then give us the right spirit and morality. If we are not good enough to embrace the right spirit or morality then give us a quick end but let us be as fair as the fairest & live the highest quality of life , the best quality of life in love with the fairest & most beautiful of folk. 
+ If we are not attractive enough then make us so. If we are not attractive enough because there is something wrong with our morality or spirit then give us the right spirit and morality. If we are not good enough to embrace the right spirit or morality then give us a quick end but let us be as fair as the fairest & live the highest quality of life , the best quality of life in love with the fairest & most beautiful of folk. If we don't meet those requirements there are no excuses for punitive measures (physical harm, race- harm, harm to sexuality, harm to finances, harm to familial relations, harm to dignity & freedoms). 
 
 
 I am hoping every part of my life and matter beautifies me inside and out to permit me to be gorgeous, to love (and be loved), to prosper myself (and others) and live life to the fullest and to the most beautiful extent.
