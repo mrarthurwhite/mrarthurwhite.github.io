@@ -25,7 +25,7 @@ If there are people who need reform then let us reform them rather than create a
 
 In light of the above, I would like to say that despite my admiration for the profession and subject and the people perhaps I am not like such folk . I am not calculating at all so I did not expect to be good at mathematics but I did end up being good for some reason. However, I am not exactly proud to share that trait with people from over crowded, over populated developing parts of the world who ace math tests because their lifestyle, culture , geography , diet renders them as sharpened instruments unfit for love (or something higher) but suited to solving some problem.   Why live as an eye sore or an offense to the fair & beautiful & good in some club or cult of the improper ?
 
-I was ushered into it by improper advice of some neighbors and then by the Dean of Engineering while I yearned for higher ideas & outlooks. To those who are undecided about a field of study : go to the department of that field or the workplace and see the people : are they beautiful? are they sweet & nice & kind ? do they dress well ? are they loving towards one another and the world? do they speak only wholesome words or is their language littered with epithets like "crud" and "git"?
+I was ushered into it by improper advice of some neighbors and then by the Dean of Engineering while I yearned for higher ideas & outlooks. To those who are undecided about a field of study : go to the department of that field or the workplace and see the people : are they beautiful? are they sweet & nice & kind ? do they dress well ? are they loving towards one another and the world? do they speak only wholesome words or is their language littered with epithets like "cr-d" and "g-t"?
 
 
 
