@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Events Meetup Project 3 for ROR"
-date:       2020-03-25 21:36:27 +0000
+date:       2020-03-25 17:36:28 -0400
 permalink:  events_meetup_project_3_for_ror
 ---
 
@@ -17,7 +17,7 @@ So eventually I came up with a users -< parties/events >-< comments >- user.  Th
 As I began I noticed that the requirement wanted the registration to have a user submittable attribute and the registration could have an RSVP / comment/request fields and it was perfect. I was now informally setting up my to do list and checklist.
 
 I resourced as much of the code as I could. Then in a separate project I separately scaffolded the necessary files and just cut down and modified and removed any unnecessary code from the scaffold. I used a very restricted scaffold and that was only to avoid creating extra files. The very restrictive scaffolding options I used are : 
-> --no-helper --no-jbuilder --no-javascripts --no-assets --no-scaffold-stylesheets --no-stylesheets --no-test-framework  --no-resource-route --no-migration**
+> --no-helper --no-jbuilder --no-javascripts --no-assets --no-scaffold-stylesheets --no-stylesheets --no-test-framework  --no-resource-route --no-migration
 
 I spoke with Howard & he said it was ok to use scaffolds as long as removed any unnecessary code. My code/project is as lean as can be. Despite this, the beginning was really slow (as is with some applications though we don't expect it from rapid application development frameworks like ROR). I was initially working without authentication and authorization and just getting the workflow straight. User logsin and lands on their profile page and then is able to see their events that they are hosting and the events that they are going to attend. Then from this profile page you could see an index of all the events and from their index of events you could rsvp for any interesting events. 
 
