@@ -10,7 +10,7 @@ As I went through my undergrad I had news swirling around me of western scientis
 
 I did not understand why some people were trying to impart these anecdotes to me. Then I realized that it was widely assumed that a sense of "loyalty" and even morality was rather alient to engineers. 
 
-It begins with Archimedes the father of engineers and scientists. He created historically significant innovations and even employed his talents in the defense of his city of Syracuse. But he stands accused of offering his talents to the captors of Syracuse , particularly the Roman General Marcellus.  It is disputed what or who may have caused his death. Some say that he was killed a Roman soldier who did not recognize him but some imply that it was but the penalty he received for allegedly offering his services to the conquering Romans. 
+It begins with Archimedes the father of engineers and scientists. He created historically significant innovations and even employed his talents in the defense of his city of Syracuse. But he stands accused of offering his talents to the captors of Syracuse , particularly the Roman General Marcellus.  It is disputed what or who may have caused his death. Some say that he was killed by a Roman soldier who did not recognize him but some imply that it was but the penalty he received for allegedly offering his services to the conquering Romans. 
 
 Then there are others after Archimedes. There is the Austrian/E. European gentleman (Mr. Urban) who offered his services to the Ottomans who then allegedly used the cannon to capture Constantinople. 
 
