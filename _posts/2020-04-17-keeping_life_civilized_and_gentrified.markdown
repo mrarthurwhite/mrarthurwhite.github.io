@@ -32,6 +32,8 @@ This reminds me of the use and abuse in the entertainment industry where "strugg
 **Why is this happening?**
 
 That is the real question. Here are some theories
+
+
 1) did some novice attending a bootcamp go "well I had to go through so many tests & rejections , why shouldn't everyone else?"
 
 2) did some actor say, "well I go through so many unkind auditions, everyone should"?
