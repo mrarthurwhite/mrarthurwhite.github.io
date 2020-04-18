@@ -46,10 +46,10 @@ That is the real question. Here are some theories
 
 Is the idea to squeeze unattractive people out of the gene pool or is it to beautify us ? if it is to beautify us then stress and random tests and rejection is not good for anyone's skin (or hair or health). Therefore it is likely this mistreatment is to inform the undesirable elements (who could not make it to business school or law school or acting school) that it would have been better to choose the gas chamber over this slow, debilitating, subtle, indirect administration of hardship. 
 
-I personally have gotten the point and refuse to have children until I resemble Armie Hammer & meet a lady who resembles his gorgeous wife, but there are plenty of individuals from 3rd world countries who are adamant about birthing children in the pollution , famine & overcrowding just to spite the beautiful & the wealthy (and I think that is even worse than choosing the gas chamber). 
+I personally have gotten the point and refuse to have children until I resemble Armie Hammer & meet a lady who resembles his gorgeous wife, but there are plenty of individuals from 3rd world countries who are adamant about birthing children in the pollution , famine & overcrowding just to spite the beautiful & the wealthy (and I think that is even worse than choosing the gas chamber).  If we are not beautiful inside or outside , if we lack in virtue inside or outside then a quick death would be preferable to this inequity.
 
 
-There are plenty of people from 3rd world countries who are willing to take as many tests as are thrown at them because life in 3rd world countries simply is much worse & they have little to lose. 
+Despite this inequity, there are plenty of people from 3rd world countries who are willing to take as many tests as are thrown at them because life in 3rd world countries simply is much worse & they have little to lose. 
 
 
 Who is impacted most by such hardship? it is perhaps mostly the delicate, fragile, comely, fair , beautiful , white folk who are trying to rise from a life of living from paycheck to paycheck (you know those termed as white "tr-sh" and the blue collar worker). 
