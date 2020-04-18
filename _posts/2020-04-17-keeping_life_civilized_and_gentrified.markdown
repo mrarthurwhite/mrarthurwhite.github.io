@@ -24,7 +24,7 @@ Why is this happening? I attend universities where students work hard & learn re
 The companies who asked me to "prove I can code" by giving out CS 101 questions do not have a very high score in giving offers to me. It was almost as if they had made up their mind before they asked me to tutor them in computer science. One such FAANG company repeatedly emails me every month to a quarter asking to interview me (most recent email datedd April 13 2020). 
 
 
-If we are CS professionals we ought to be able to paid for the time we spend on their tests. This might discourage them from being cavalier about asking people to give tests on the interviewer's time. 
+If we are CS professionals we ought to be able to be paid for the time we spend on their tests. This might discourage them from being cavalier about asking people to give tests on the interviewer's time. 
 
 
 This reminds me of the use and abuse in the entertainment industry where "struggling artists" are asked to "audition" and then dismissed without explanation or feedback. However, we are not actors - with minimal schooling & just a desire to "inhabit" questionable characters (considering the state of the arts wholesome is hard to find). As Robert Downey Jr said "give me any man on the street and I will make him a movie star in 36 hours" ([1](https://www.youtube.com/watch?v=-mnoItCi32Y)). Acting is not the same as engineering sciences which takes years of study & in the case of software engineering which require a few months of intensive training  (as with a bootcamp) people still ought not to be treated so (be it acting or engineering). 
