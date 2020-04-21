@@ -21,13 +21,13 @@ One CIO/ CEO refused to explain to an interviewee why he did not approve of his 
 
 Why is this happening? What is the norm? I have been fortunate enough to attend universities where students work hard & learn relevant good (nay great) material - some of it far more sublime than any mathematics or engineering or science. When they show up for interviews they simply have to say "I am interested in this field" and they are offered the 7 figure job. Their resumes includes work at mid to large/global firms. They have had offers in the 6 figures from top 3 firms in the field and every single one of them involved behavioral interviews. A pleasant conversation and an offer is made, that is normal in white collar professions. 
 
-The companies who asked me to "prove I can code" by giving out CS 101 questions do not have a very high score in giving offers to me. It was almost as if they had made up their mind before they asked me to tutor them in computer science. One such FAANG company repeatedly emails me every month to a quarter asking to interview me (most recent email datedd April 13 2020). 
+The companies who asked interviewees to "prove you can code" by giving out CS 101 questions do not have a very high score in giving offers, perhaps. It was almost as if they had made up their mind before they asked my friend to tutor them in computer science. One such FAANG company repeatedly emails my friend every month to a quarter asking to interview him (most recent email dated April 13 2020). 
 
 
-If we are CS professionals we ought to be able to be paid for the time we spend on their tests. This might discourage them from being cavalier about asking people to give tests on the interviewer's time. 
+If we are CS professionals we ought to perhaps  not have to code for free on basic but laborious tests. 
 
 
-This reminds me of the use and abuse in the entertainment industry where "struggling artists" are asked to "audition" and then dismissed without explanation or feedback. People still ought not to be treated so (be it acting or engineering). 
+
 
 **Why is this happening?**
 
