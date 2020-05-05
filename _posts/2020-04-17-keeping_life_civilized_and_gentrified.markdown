@@ -16,7 +16,7 @@ I ran into the following interview by a flatiron student (ex student) and resona
 If we are CS professionals we ought to perhaps  not have to code for free on basic but laborious tests. 
 
 
-
+We would like all the advantages and none of the disadvantages of every aspect be it civilized life or uncivilized (organic) lifestyles.
 
 
 
