@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript Closures & Demonstrating an atomic lesson"
-date:       2021-05-12 17:12:52 +0000
+date:       2021-05-12 13:12:52 -0400
 permalink:  javascript_closures_and_demonstrating_an_atomic_lesson
 ---
 
@@ -16,7 +16,10 @@ function add() {
 		{counter += 1; return counter}
     return plus
   }
+```
 
+When we run the above 5 lines of code:
+```
 let doaddition= add(); // add is invoked which returns reference to function plus
 doaddition(); // doaddition is now a reference to plus 
 // hence doaddition()=plus()
@@ -34,4 +37,5 @@ The counter is protected by the scope of the add function, and can only be chang
 
 I had to look for information about closures online and then come up with an example which was "atomic". Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
 
+This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it.
 
