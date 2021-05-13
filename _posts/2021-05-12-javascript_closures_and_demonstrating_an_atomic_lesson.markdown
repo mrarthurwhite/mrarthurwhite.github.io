@@ -6,7 +6,7 @@ permalink:  javascript_closures_and_demonstrating_an_atomic_lesson
 ---
 
 
-So it seems that JS closures are not very properly explained in our syllabus.
+So it seems that JS closures are not very properly (atomically & in a utilitarian fashion) explained in our curriculum.
 
 So without further ado the five lines of code are [here](http://https://github.com/mrarthurwhite/js_closure_demonstration/blob/main/closure_demo.js) :
 ```
@@ -34,12 +34,12 @@ The  *add* function only runs once. It sets the *counter* to zero (0), and retur
 
 This way *doaddition* becomes a function. The "wonderful" part is that it can access the counter in the parent scope.
 
-This is called a JavaScript closure. It makes it possible for a function to have "private" variables. This does not make sense to people coming from an OO background like me however this is how JS allows for private variables.
+This is called a JavaScript closure. It makes it possible for a function to have "private" variables. This does not seem very usual to people coming from an OO background (like me) however this is how JS allows for private variables. If you see above, you can only increment the counter (not decrement it) or change the value exponentially. In other words the variable is allowed access through an "interface" of sorts & only permits certain functions to be executed upon it.
 
 The counter is protected by the scope of the *add* function, and can only be changed using the *doaddition* function.
+ 
 
-
-I had to look for information about closures online and then come up with an example which was "atomic". Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
+I had to look for information about closures online and then come up with an example which was "atomic" & utilitarian. Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
 
 This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it. The above is only a modified example from another online source, I do not take credit for the source code nor lay any claim to its originality.
 
