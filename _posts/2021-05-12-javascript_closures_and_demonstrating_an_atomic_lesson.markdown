@@ -28,18 +28,23 @@ doaddition(); // doaddition() is essentially invoking plus()
 ```
  
 
-The variable doaddition is assigned the return value of the  add function which is plus .
+The variable *doaddition* is assigned the return value of the  add function which is *plus* .
 
-The  add function only runs once. It sets the counter to zero (0), and returns a function  plus .
+The  *add* function only runs once. It sets the *counter* to zero (0), and returns a function  *plus* .
 
-This way doaddition becomes a function. The "wonderful" part is that it can access the counter in the parent scope.
+This way *doaddition* becomes a function. The "wonderful" part is that it can access the counter in the parent scope.
 
-This is called a JavaScript closure. It makes it possible for a function to have "private" variables.
+This is called a JavaScript closure. It makes it possible for a function to have "private" variables. This does not make sense to people coming from an OO background like me however this is how JS allows for private variables.
 
-The counter is protected by the scope of the add function, and can only be changed using the doaddition function.
+The counter is protected by the scope of the *add* function, and can only be changed using the *doaddition* function.
 
 
 I had to look for information about closures online and then come up with an example which was "atomic". Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
 
-This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it. The above is only a modified example from another online source, I do not take credit for the source code nor lay any claim to its originality. 
+This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it. The above is only a modified example from another online source, I do not take credit for the source code nor lay any claim to its originality.
+
+Some references : 
+[[1](http://skilldrick.co.uk/2010/11/a-brief-introduction-to-closures/)]
+[[2](https://blog.bitsrc.io/closures-in-javascript-why-do-we-need-them-2097f5317daf)]
+[[3](https://medium.com/@dis_is_patrick/practical-uses-for-closures-c65640ae7304)]
 
