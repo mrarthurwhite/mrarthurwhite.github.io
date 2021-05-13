@@ -41,5 +41,5 @@ The counter is protected by the scope of the add function, and can only be chang
 
 I had to look for information about closures online and then come up with an example which was "atomic". Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
 
-This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it.
+This is a placeholder for the concept of closures, which I am still unsure how or when to use (just figured out the concept). But more later once I figure out why precisely this is useful & when anyone would use it. The above is only a modified example from another online source, I do not take credit for the source code nor lay any claim to its originality. 
 
