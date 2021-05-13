@@ -8,35 +8,31 @@ permalink:  javascript_closures_and_demonstrating_an_atomic_lesson
 
 So it seems that JS closures are not very properly (atomically & in a utilitarian fashion) explained in our curriculum.
 
-So without further ado the five lines of code are [here](http://https://github.com/mrarthurwhite/js_closure_demonstration/blob/main/closure_demo.js) :
-```
-function add() {
-    let counter = 0;
-    function plus() 
-		{counter += 1; return counter}
-    return plus
-  }
+So without further ado the five lines of code are [here](https://github.com/mrarthurwhite/js_closure_demonstration/blob/master/closure_demo.js) :
 ```
 
-When we run the above 5 lines of code:
+function aName() {
+  let name = "Arthur";
+  function displayName() {
+      console.log(name);
+  }
+  displayName(); 
+}
+
+aNname(); // displays Arthur
 ```
-let doaddition= add(); // add is invoked which returns reference to function plus
-doaddition(); // doaddition is now a reference to plus 
-// hence doaddition()=plus()
-doaddition(); // doaddition() is essentially invoking plus()
-// the counter is now 2
-```
+
  
 
-The variable *doaddition* is assigned the return value of the  add function which is *plus* .
-
-The  *add* function only runs once. It sets the *counter* to zero (0), and returns a function  *plus* .
-
-This way *doaddition* becomes a function. The "wonderful" part is that it can access the counter in the parent scope.
+*displayName* is a function. 
+The "wonderful" part is that it can access the *name* variable in the parent scope.
+This is called a JavaScript closure. It makes it possible for a function to have "private" variables.
+The name variable is protected by the scope of the *aName* function, and can only be accessed using the *aName*() function.
+You cannot in other words modify the inner variable "*name*".
 
 This is called a JavaScript closure. It makes it possible for a function to have "private" variables. This does not seem very usual to people coming from an OO background (like me) however this is how JS allows for private variables. If you see above, you can only increment the counter (not decrement it) or change the value exponentially. In other words the variable is allowed access through an "interface" of sorts & only permits certain functions to be executed upon it.
 
-The counter is protected by the scope of the *add* function, and can only be changed using the *doaddition* function.
+The *name* variable is protected by the scope of the *aName* function, and can only be accessed using the *aName* function.
  
 
 I had to look for information about closures online and then come up with an example which was "atomic" & utilitarian. Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
