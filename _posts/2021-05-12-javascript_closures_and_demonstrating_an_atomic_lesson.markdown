@@ -30,10 +30,8 @@ This is called a JavaScript closure. It makes it possible for a function to have
 The name variable is protected by the scope of the *aName* function, and can only be accessed using the *aName*() function.
 You cannot in other words modify the inner variable "*name*".
 
-This is called a JavaScript closure. It makes it possible for a function to have "private" variables. This does not seem very usual to people coming from an OO background (like me) however this is how JS allows for private variables. If you see above, you can only increment the counter (not decrement it) or change the value exponentially. In other words the variable is allowed access through an "interface" of sorts & only permits certain functions to be executed upon it.
+The concept of closures and private variables does not seem very usual to people coming from an OO background (like me) however this is how JS allows for private variables. In other words the variable is allowed access through an "interface" of sorts & only permits certain functions to be executed upon it.
 
-The *name* variable is protected by the scope of the *aName* function, and can only be accessed using the *aName* function.
- 
 
 I had to look for information about closures online and then come up with an example which was "atomic" & utilitarian. Atomic lessons take only one unit of learning & express that as opposed to including multiple units of learning (which the reader may or may not be familiar with) and then inundating the reader with it thereby confusing or discouraging the learner. 
 
