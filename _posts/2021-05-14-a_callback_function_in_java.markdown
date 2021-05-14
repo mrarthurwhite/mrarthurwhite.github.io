@@ -41,5 +41,5 @@ Code should be self documenting (not requiring comments but they are nice to hav
 
 Brevity is important but should you make your code incomprehensible for the sake of brevity? That defeats the intent behind high level languages. There are languages that can be very brief but they are not used because they look like encryption. Assembly language is very efficient (can be brief) but it is hard to decipher even for software engineers.
 
-Functional programming has many awesome offerings and one of those offerings is *call back functions*. However, what is not awesome is the use of notation & using brevity to sacrifice comprehensibility. Programs that are hard to decipher raise the barrier to entry (which may be good) and was a defining hallmark of the profession in the 1950s ( days of IBM) & programmers who wore garters to hold up their socks).
+Functional programming has many awesome offerings and one of those offerings is *call back functions*. However, what is not awesome is the use of notation & using brevity to sacrifice comprehensibility. Programs that are hard to decipher raise the barrier to entry (which may be good for some & may have salient points, perhaps) and was a defining hallmark of the profession in the 1950s ( days of IBM) & programmers who wore garters to hold up their socks.
 
