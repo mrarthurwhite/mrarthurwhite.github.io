@@ -8,34 +8,49 @@ permalink:  a_callback_function_in_java
 
 The reader of this blog may have viewed the rather atomic & trivial example of passing[ a callback function in JS](http://mrarthurwhite.github.io/demonstrating_a_call_back_function).
 
+ 
+ As a reminder JS implements callbacks simply so : 
+
+```
+function myDisplayer(number) {
+    console.log("Displaying number : "+ number);
+  }
+  
+  function myCalculator(number, myCallback) {
+    myCallback(number);
+  }
+  
+  myCalculator(100, myDisplayer); // displays the number 100
+```
 
 As an OO Java programmer for some time I had often wanted to pass functions as arguments. But as of JDK8+ (& possible JDK 12) this is how Java passes a function. Again this is *supposd* to be a trivial example in Java but comparing it to JS perhas the JS programmer may be rather glad :
 
 ```
-interface StringManipulation {
-	String stringFunction(String str);
+//predicate = pre:before dicate:make known
+interface MyDisplayerInterfaceWOMR {
+	void display(int number);
 }
 
-public class CodeAsArgumentToMethod {
-	public static String modifyStr(StringManipulation manipulation, String str){
-	  return manipulation.stringFunction(str);
+public class JavaCallBackMethodWOMethodReference {
+	
+	public static void myCalculator( int number, MyDisplayerInterfaceWOMR myCallback){
+	   myCallback.display(number);
 	}
+	
 	public static void main (String args[]) {
-		// implementing stringFunction here as “reverse”: reverse string
-		StringManipulation reverse = (str) -> {		
-			return new StringBuffer(str).reverse().toString();
+		MyDisplayerInterfaceWOMR myDisplayer = (number) -> {
+			System.out.println("Displaying number: " + number);
 		};
-		// Output: omeD adbmaL
-		System.out.println(modifyStr(reverse, "Lambda Demo")); 
+		myCalculator( 100, myDisplayer); 
 	}
 }
 
 ```
-[[The source](https://github.com/mrarthurwhite/java_callback_function_demo/blob/master/CodeAsArgumentToMethod.java) ]
+[[The source](https://github.com/mrarthurwhite/java_callback_function_demo/blob/master/JavaCallBackMethodWOMethodReference.java) ]
 
 Yes, passing a callback function  may encourage using Greek alphabets like "Lambda" , an interface and twice as many lines of code. I believe the words the reader may be searching for are "Thank you" & you are most welcome.
 
-To be closer & fairer here is an updated & better way of using callback methods in java:
+To be closer & fairer here is an updated & clearer way of using callback methods in java:
 
 ```
 //predicate = pre:before dicate:make known
@@ -61,19 +76,7 @@ public class JavaCallBackMethod {
 
 [ [source](https://github.com/mrarthurwhite/java_callback_function_demo/blob/master/JavaCallBackMethod.java) ]
 
-As you can see it uses terms like predicates & method reference operator ( : : ) to do the same thing that JS does in the following code : 
-
-```
-function myDisplayer(number) {
-    console.log("Displaying number : "+ number);
-  }
-  
-  function myCalculator(number, myCallback) {
-    myCallback(number);
-  }
-  
-  myCalculator(100, myDisplayer); // displays the number 100
-```
+As you can see it uses terms like predicates & method reference operator ( : : ) .
 
 If this is astounding then ROR developers ought to look at what it takes to get an n-tiered app up and running in Java (using an ORM like Hibernate) or how long it takes sometimes to configure and install some frameworks. In a way granular & detailed configuration is good because it gives greater granular control however usability requires that granular details ought to be *optional* and not a requirement to use. 
 
