@@ -35,6 +35,46 @@ public class CodeAsArgumentToMethod {
 
 Yes, passing a callback function  may encourage using Greek alphabets like "Lambda" , an interface and twice as many lines of code. I believe the words the reader may be searching for are "Thank you" & you are most welcome.
 
+To be closer & fairer here is an updated & better way of using callback methods in java:
+
+```
+//predicate = pre:before dicate:make known
+interface MyDisplayerInterface {
+	void display(int number);
+}
+
+public class JavaCallBackMethod {
+
+	public static void myDisplayer(int number) {
+		System.out.println("Displaying number: " + number);
+	}
+	
+	public static void myCalculator( int number, MyDisplayerInterface myCallback){
+	   myCallback.display(number);
+	}
+	
+	public static void main (String args[]) {
+		myCalculator( 100, JavaCallBackMethod::myDisplayer); 
+	}
+}
+```
+
+[ [source](https://github.com/mrarthurwhite/java_callback_function_demo/blob/master/JavaCallBackMethod.java) ]
+
+As you can see it uses terms like predicates & method reference operator ( : : ) to do the same thing that JS does in the following code : 
+
+```
+function myDisplayer(number) {
+    console.log("Displaying number : "+ number);
+  }
+  
+  function myCalculator(number, myCallback) {
+    myCallback(number);
+  }
+  
+  myCalculator(100, myDisplayer); // displays the number 100
+```
+
 If this is astounding then ROR developers ought to look at what it takes to get an n-tiered app up and running in Java (using an ORM like Hibernate) or how long it takes sometimes to configure and install some frameworks. In a way granular & detailed configuration is good because it gives greater granular control however usability requires that granular details ought to be *optional* and not a requirement to use. 
 
 Code should be self documenting (not requiring comments but they are nice to have). If we bring a lay person they ought to be able to decipher the code written in your high-level language. That was the entire intent behind higher level languages like C++ , Java etc. 
