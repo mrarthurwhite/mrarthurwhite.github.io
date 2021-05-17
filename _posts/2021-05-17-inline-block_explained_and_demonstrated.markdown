@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "inline-block explained & demonstrated"
-date:       2021-05-17 12:06:18 +0000
+date:       2021-05-17 08:06:18 -0400
 permalink:  inline-block_explained_and_demonstrated
 ---
 
@@ -68,6 +68,6 @@ span.b {
 
 [[source](https://github.com/mrarthurwhite/css_inline_block_demo/blob/master/index.html)]
 
-![](https://ibb.co/KVzmtCX)
+![screenshot](https://ibb.co/KVzmtCX)
 
 
