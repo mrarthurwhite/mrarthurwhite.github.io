@@ -1,12 +1,14 @@
 ---
 layout: post
 title:      "Clear Property Working with Float"
-date:       2021-05-20 12:01:14 +0000
+date:       2021-05-20 08:01:14 -0400
 permalink:  clear_property_working_with_float
 ---
 
 
-I totally did not understand the clear property which works with float & the explanation in the curriculum was barely a paragraph. I had to do some research on my own to clearify my understanding & so I am doing this below with an illustrative demonstration:
+I totally did not understand the clear property which works with float & the explanation in the curriculum was barely a paragraph. I had to do some research on my own to clearify my understanding & so I am doing this below with an illustrative demonstration.
+If there are two elements on an HTML page and one of them is floating (using the float property to the left or to the right) in such a way that it is overlapping or conflicting with the second element then the second element can clear space (to the left or right). The following example illustrates:
+
 
 [[source](https://github.com/mrarthurwhite/css_clear_for_float_demo)]
 
