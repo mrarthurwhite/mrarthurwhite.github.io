@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using float to position Elements Demonstration"
-date:       2021-05-19 13:08:02 +0000
+date:       2021-05-19 09:08:02 -0400
 permalink:  using_float_to_position_elements_demonstration
 ---
 
@@ -9,6 +9,9 @@ permalink:  using_float_to_position_elements_demonstration
 Since I am very new & unaware of CSS I find that actually seeing a demonstration of the code helps me a great deal.
 When the curriculum mentions using the float property to position elements to the left or right I would love to see it with my own eyes (a demonstration). 
 So here is some code that demonstrates this. 
+
+![img](https://github.com/mrarthurwhite/css_float_positioning_demo/blob/master/imgs/land.jpg)
+
 
 [[source](https://github.com/mrarthurwhite/css_float_positioning_demo)]
 
