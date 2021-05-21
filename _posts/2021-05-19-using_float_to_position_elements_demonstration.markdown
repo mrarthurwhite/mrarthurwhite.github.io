@@ -10,7 +10,7 @@ Since I am very new & unaware of CSS I find that actually seeing a demonstration
 When the curriculum mentions using the float property to position elements to the left or right I would love to see it with my own eyes (a demonstration). 
 So here is some code that demonstrates this. 
 
-![img](https://github.com/mrarthurwhite/css_float_positioning_demo/blob/master/imgs/land.jpg)
+![img](https://mrarthurwhite.github.io/css_float_positioning_demo/imgs/land.jpg)
 
 
 [[source](https://github.com/mrarthurwhite/css_float_positioning_demo)]
