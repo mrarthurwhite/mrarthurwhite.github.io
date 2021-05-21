@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using clearfix & display:flowroot to accomodate floating elements"
-date:       2021-05-21 10:59:20 +0000
+date:       2021-05-21 06:59:21 -0400
 permalink:  using_clearfix_and_display_flowroot_to_accomodate_floating_elements
 ---
 
@@ -11,6 +11,7 @@ So when I was just trying to shore up my understanding of CSS I was frustrated b
 One of these issues is with "floating" an element or image and having words wrap around it using CSS & HTML.
 
 The curriculum has one paragraph on clearfix without any illustration or demonstration so I am providing that here for mine & others' benefit (note, I cannot place a screenshot because apparently embedding images on the blog does not seem to work for me). So I am posting the source code for you to use & the github link so you can read the self explanatory source code yourself. 
+
 
 [ [source](https://github.com/mrarthurwhite/css_clearfix_for_float_demo) ]
 
