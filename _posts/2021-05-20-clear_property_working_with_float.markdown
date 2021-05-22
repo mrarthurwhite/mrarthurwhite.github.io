@@ -58,3 +58,6 @@ If there are two elements on an HTML page and one of them is floating (using the
 </body>
 </html>
 ```
+
+![screenshot](https://mrarthurwhite.github.io/css_clear_for_float_demo/imgs/screenshot.jpg)
+
