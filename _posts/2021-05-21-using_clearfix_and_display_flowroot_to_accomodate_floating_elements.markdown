@@ -73,3 +73,5 @@ div#with_display_flowroot {
 </body>
 </html>
 ```
+
+![screenshot](https://mrarthurwhite.github.io/css_clearfix_for_float_demo/imgs/screenshot.jpg)
