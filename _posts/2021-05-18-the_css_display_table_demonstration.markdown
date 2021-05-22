@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The css display:table demonstration"
-date:       2021-05-18 19:27:47 +0000
+date:       2021-05-18 15:27:47 -0400
 permalink:  the_css_display_table_demonstration
 ---
 
@@ -48,5 +48,8 @@ I had to search for suitable examples online and did not find any so here is my 
 </body>
 </html>
 ```
+
+![screenshot]( https://mrarthurwhite.github.io/css_display_table_demo/imgs/screenshot.jpg)
+
 
 
