@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A better explanation a of CSS Box Model"
-date:       2021-05-16 14:21:03 +0000
+date:       2021-05-16 10:21:04 -0400
 permalink:  a_better_explanation_a_of_css_box_model
 ---
 
@@ -11,7 +11,7 @@ I am not very CSS savvy so going through what is provided by the curriculum I wa
 So here is the demonstration part of the box model that was missing (hope people find it useful). As a reminder following is the verbal explanation: 
 "The box model is how we conceptualize the way HTML elements are displayed in a browser. Imagine that every element in an HTML document is a box with certain properties: width, height, padding, margin and a border." [credit: flatiron curriculum]
 
-[source]:
+[source ](https://github.com/mrarthurwhite/css_box_model_demo/index.html)
 
 ```
 
@@ -40,5 +40,5 @@ div {
 
 ```
 
-If you view the above index.html file in a browser you will be able to see what I am saying since this blog does not allow me to upload images (of outcomes). 
+![](https://mrarthurwhite.github.io/css_box_model_demo/imgs/screenshot.jpg)
 
