@@ -11,7 +11,7 @@ I am not very CSS savvy so going through what is provided by the curriculum I wa
 So here is the demonstration part of the box model that was missing (hope people find it useful). As a reminder following is the verbal explanation: 
 "The box model is how we conceptualize the way HTML elements are displayed in a browser. Imagine that every element in an HTML document is a box with certain properties: width, height, padding, margin and a border." [credit: flatiron curriculum]
 
-[source ](https://github.com/mrarthurwhite/css_box_model_demo/index.html)
+[source ](https://github.com/mrarthurwhite/css_box_model_demo/blob/master/index.html)
 
 ```
 
