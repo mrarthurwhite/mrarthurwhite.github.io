@@ -68,6 +68,6 @@ span.b {
 
 [[source](https://github.com/mrarthurwhite/css_inline_block_demo/blob/master/index.html)]
 
-![screenshot](https://ibb.co/KVzmtCX)
+![screenshot](https://mrarthurwhite.github.io/css_inline_block_demo/imgs/screenshot.jpg)
 
 
