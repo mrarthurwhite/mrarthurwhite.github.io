@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Demonstrating position : relative in CSS"
-date:       2021-05-24 16:37:27 +0000
+date:       2021-05-24 12:37:28 -0400
 permalink:  demonstrating_position_relative_in_css
 ---
 
@@ -41,4 +41,4 @@ This div element has position: relative;
 </html>
 ```
 
-![](https://mrarthurwhite.github.io/css_position_relative_demo/imgs/screenshot.jpg)
+![screenshot](https://mrarthurwhite.github.io/css_position_relative_demo/imgs/screenshot.JPG)
