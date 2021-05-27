@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Demonstration of the Z-index property"
-date:       2021-05-27 20:59:18 +0000
+date:       2021-05-27 16:59:18 -0400
 permalink:  demonstration_of_the_z-index_property
 ---
 
@@ -40,4 +40,6 @@ img {
 </html>
 ```
 
-![screenshot](https://mrarthurwhite.github.io/css_z_index_demo/imgs/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/mrarthurwhite/css_z_index_demo/master/imgs/screenshot.jpg)
+
+
