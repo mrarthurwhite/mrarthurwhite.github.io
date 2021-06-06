@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sharing or Inheriting CSS Properties & Values"
-date:       2021-06-06 13:10:20 +0000
+date:       2021-06-06 09:10:20 -0400
 permalink:  sharing_or_inheriting_css_properties_and_values
 ---
 
@@ -137,4 +137,31 @@ color: darkred;}
 ```
 
 It seems like a bit of a hack because essentially you are applying some properties / values to classes based on their names matching or sharing some common prefix. The notation is not intuitive but it works. 
+
+**CSS [attribute*=value] Selector **
+
+The [attribute*=value] selector matches every element whose attribute value containing a specified value. For example the following sets the background for every : 
+[
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+[class*="test"] {
+  background: pink;
+}
+</style>
+</head>
+<body>
+
+<div class="first_test">First class with test keyword.</div>
+<div class="second">Another element with class attribute but not a matching a value.</div>
+<div class="just another test">This element contains a class attribute with a value.</div>
+
+</body>
+</html>
+```
+
+
+
 
