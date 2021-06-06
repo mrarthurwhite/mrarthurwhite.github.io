@@ -138,7 +138,7 @@ color: darkred;}
 
 It seems like a bit of a hack because essentially you are applying some properties / values to classes based on their names matching or sharing some common prefix. The notation is not intuitive but it works. 
 
-**CSS [attribute*=value] Selector **
+** The CSS [attribute*=value] Selector **
 
 The [attribute*=value] selector matches every element whose attribute value containing a specified value. For example the following sets the background for every : 
 [
