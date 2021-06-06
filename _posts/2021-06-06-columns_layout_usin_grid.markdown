@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Columns Layout Usin grid"
+title:      "Columns Layout Using diplay property's value : grid"
 date:       2021-06-06 12:20:48 -0400
 permalink:  columns_layout_usin_grid
 ---
