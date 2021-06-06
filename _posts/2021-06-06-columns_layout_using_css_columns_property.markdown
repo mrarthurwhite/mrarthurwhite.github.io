@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Columns Layout Using CSS Columns property"
-date:       2021-06-06 17:14:18 +0000
+date:       2021-06-06 13:14:18 -0400
 permalink:  columns_layout_using_css_columns_property
 ---
 
