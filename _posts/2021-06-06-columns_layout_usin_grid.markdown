@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Columns Layout Usin grid"
-date:       2021-06-06 16:20:48 +0000
+date:       2021-06-06 12:20:48 -0400
 permalink:  columns_layout_usin_grid
 ---
 
