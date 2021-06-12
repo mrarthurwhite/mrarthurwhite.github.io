@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hello World App for React/Redux"
-date:       2021-06-12 20:16:58 +0000
+date:       2021-06-12 16:16:58 -0400
 permalink:  hello_world_app_for_react_redux
 ---
 
