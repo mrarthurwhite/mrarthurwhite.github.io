@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Experimenting with useState hook"
-date:       2021-06-23 15:58:39 +0000
+date:       2021-06-23 11:58:39 -0400
 permalink:  experimenting_with_usestate_hook
 ---
 
 
 So the hooks were not so clear due to a lack of proper documentation (or so I thought).
 
-I looked at reactjs.org and the API it was helpful (but not as helpful). It is good to have explanations in the API but the API should also have an abbreviated version to it. 
+I looked at reactjs.org and the API . It was helpful (but not as helpful). It is good to have explanations in the API but the API should also have an abbreviated version to it. 
 
 ```
 import './App.css';
@@ -38,7 +38,7 @@ export default App;
 
 ```
 Above is a very simple use of the `useState` hook. 
-Notice I did not use `setCount`. The reason is that the moment I do all the variables immediately get updated to the latest value of `count` in the state apparently due to re-rendered values.  Therefore if I do call `setCount` in my code then the values of `initialCount` and `finalCount` are changed to include the latest value of `count` in the state object.
+Notice I did not use `setCount` except within an `if` block to avoid setting the count repeatedly. The reason is that the moment I do some of the variables immediately get updated (in the re render) to the latest value of `count` in the state apparently due to re-rendering.  Therefore if I do call `setCount` in my code then the values of `initialCount` and `finalCount` are changed to include the latest value of `count` in the state object.
 
 I can change the `count` variable by declaring it as a variable `let` as opposed to `const` & that works fine but calling `setCount` ends up updating all variables `count` is assigned to .
 
