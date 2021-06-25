@@ -105,14 +105,13 @@ Now it is time to add the jar file or dependency that the few lines of code abov
 For that Commons Collections  will provide you with the lines of xml:
 
 
-
-  <dependencies>
+```<dependencies>
   	<dependency>
   		<groupId>org.apache.commons</groupId>
   		<artifactId>commons-collections4</artifactId>
   		<version>4.4</version>
   	</dependency>
-  </dependencies>
+  </dependencies>```
 
 	
 	
