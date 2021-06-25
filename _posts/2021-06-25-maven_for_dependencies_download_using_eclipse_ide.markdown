@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Maven for dependencies download using Eclipse IDE "
-date:       2021-06-25 15:28:29 +0000
+date:       2021-06-25 11:28:29 -0400
 permalink:  maven_for_dependencies_download_using_eclipse_ide
 ---
 
@@ -104,6 +104,7 @@ Now it is time to add the jar file or dependency that the few lines of code abov
 
 For that Commons Collections  will provide you with the lines of xml:
 
+
 ```
   <dependencies>
   	<dependency>
@@ -115,7 +116,6 @@ For that Commons Collections  will provide you with the lines of xml:
 	```
 	
 	
-
 
 To locate what dependency information to add you can usually find it in the source library's webpage somewhere. With Commons Collections : 
 
