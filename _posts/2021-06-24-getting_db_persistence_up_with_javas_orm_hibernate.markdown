@@ -6,7 +6,7 @@ permalink:  getting_db_persistence_up_with_javas_orm_hibernate
 ---
 
 
-So after the refreshing reality that is ROR I tried to remind myself of what it would take to get Java's ORM Hibernate to to work with an in memory Database since mysql is memory inefficient (runs in the background of the development machine) & has too many configurations & unnecessary feature sets that are not useful in development. With in memory database you have the best of both worlds, you can mock up your DB & then migrate to an RDBMS when it is time to deploy & stress test. I have used ORMs with Oracle's RDBMS & IBM's RDBMS (DB2).
+So after the refreshing reality that is ROR I tried to remind myself of what it would take to get Java's ORM Hibernate to to work with an in memory Database since mysql is memory inefficient (runs in the background of the development machine) & has too many configurations & unnecessary feature sets that are not useful in development. With in memory database you have the best of both worlds, you can mock up your DB & then migrate to an RDBMS when it is time to deploy & stress test. I have used ORMs (EOF, Hibernate) with Oracle's RDBMS & IBM's RDBMS (DB2) so I wished to see what it would be like with an in memory DB.
 
 
 This is the repository of the Java ORM using an in memory DB [[src](https://github.com/mrarthurwhite/JavaORMwInMemoryDB)].
