@@ -102,24 +102,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 
 Now it is time to add the jar file or dependency that the few lines of code above in class `IterableMapDemo` need.
 
-For that Commons Collections  will provide you with the lines of xml:
-
-```
-
-<dependencies>
-  	<dependency>
-  		<groupId>org.apache.commons</groupId>
-  		<artifactId>commons-collections4</artifactId>
-  		<version>4.4</version>
-  	</dependency>
-</dependencies>
-
-
-```
-
-
-
-	
+For that Commons Collections  will provide you with the lines of xml.
 	
 
 To locate what dependency information to add you can usually find it in the source library's webpage somewhere. With Commons Collections : 
