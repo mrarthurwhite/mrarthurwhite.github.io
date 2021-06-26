@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fetching with React Hooks"
-date:       2021-06-19 00:30:32 +0000
+date:       2021-06-18 20:30:32 -0400
 permalink:  fetching_with_react_hooks
 ---
 
@@ -49,17 +49,13 @@ function App() {
   const [words, setWords] = useState([]);
 
   useEffect(() => {
-                    let mounted = true;
                     fetch('http://localhost:4000/words')
                     .then(response => response.json())
                     .then (data =>
                                       {
-                                        if (mounted){
                                             setWords(data);
-                                        }
                                       } 
                                     )
-                      return () => mounted = false;
                   }, []
             )
 
