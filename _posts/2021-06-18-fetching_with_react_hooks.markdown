@@ -59,16 +59,17 @@ import React from 'react';
 function App() {
   const [words, setWords] = useState([]);
 
-  useEffect(() => {
-                    fetch('http://localhost:4000/words')
-                    .then(response => response.json())
-                    .then (data =>
-                                      {
-                                            setWords(data);
-                                      } 
-                                    )
-                  }, []
-            )
+  let fetchData = () => {
+                          fetch('http://localhost:4000/words')
+                          .then(response => response.json())
+                          .then (data =>
+                                            {
+                                                  setWords(data);
+                                            } 
+                                          )
+                        };
+
+  useEffect(fetchData, [] );
 
 
     return (
