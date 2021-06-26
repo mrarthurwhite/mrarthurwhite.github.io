@@ -46,7 +46,7 @@ If you want to run an effect and clean it up only once (on mount and unmount), y
 The API for `useEffect` is :
 
 
-` useEffect( () => { . . . return cleanup; },[var_n_whose_change_triggers_useEffect . . .] ); `
+``` useEffect( () => { . . . return cleanup; },[var_n_whose_change_triggers_useEffect . . .] ); ```
 
 
 So here is the code which actually makes a call to the backend:
