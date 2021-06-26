@@ -39,11 +39,12 @@ ReactDOM.render(
 ```
 Before we go into using `useEffect` to make a fetch call allow me to go over the ouline of the code:
 
-`useEffect( () => {  fetchdata(). . .  },[empty_array_indicating_fetching_only_once] );`
+`useEffect(  fetchdata(),[ empty_array__so_as_to_fetch_only_once] );`
 
 If you want to run an effect and clean it up only once (on mount and unmount), you can pass an empty array ([]) as a second argument. This tells React that your effect doesn’t depend on any values from props or state, so it never needs to re-run. 
 
 The API for `useEffect` is :
+
 `  useEffect( () => { . . . return cleanup; },[var_1_whose_change_triggers_useEffect . . .] );`
 
 So here is the code which actually makes a call to the backend:
