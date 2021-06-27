@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Best Practice : Setting up a local REST API"
-date:       2021-06-22 22:48:54 +0000
+date:       2021-06-22 18:48:54 -0400
 permalink:  a_best_practice_setting_up_a_local_rest_api
 ---
 
@@ -102,10 +102,10 @@ In our case specifically it is:
 `json-server db.json -p 1111`
 
 So the screenshot of a running json-server looks so:
-![running json server](https://github.com/mrarthurwhite/local_rest_api_demo/blob/master/imgs/screenshot1.jpg)
+![running json server](https://mrarthurwhite.github.io/local_rest_api_demo/imgs/screenshot1.jpg)
 
 And the screenshot of a running api looks so : 
-![running api](https://github.com/mrarthurwhite/local_rest_api_demo/blob/master/imgs/screenshot2.jpg)
+![running api](https://mrarthurwhite.github.io/local_rest_api_demo/imgs/screenshot2.jpg)
 
 And the entire src along with some references is here:
 [src](https://github.com/mrarthurwhite/local_rest_api_demo/)
