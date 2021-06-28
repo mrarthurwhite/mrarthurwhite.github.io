@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cleaner Fetching W/ Hooks , Await, Sync & Axios"
-date:       2021-06-28 12:52:57 +0000
+date:       2021-06-28 08:52:57 -0400
 permalink:  cleaner_fetching_w_hooks_await_sync_and_axios
 ---
 
@@ -50,7 +50,7 @@ export default App;
 
 So the above seems rather useful & concise but I would like to start using[ asynch & wait](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) to avoid explicity chaining promises or to "explicitly configure promise chains" like so : 
 
-` fetch (url).then (response=>response.json()).then(data=> work_with_data);`
+`fetch (url).then (response=>response.json()).then(data=> work_with_data);`
 
 Following is code with async & await [[src](https://github.com/mrarthurwhite/use_effect_react_hooks_demo/blob/master/use_effect_initial_demo/src/App.js)]: 
 
@@ -95,13 +95,16 @@ So the above works. Let us see if we can incorporate Axios. Axios is an http cli
 `npm install axios`
 
 2. note that axios has a response [template](https://axios-http.com/docs/res_schema):
+
 ```
-axios.get('/user/12345')
+
+axios.get("/user/12345")
   .then(function (response) {
-    console.log(response.data);  // `data` is the response that was provided by the server
-    console.log(response.status); // `status` is the HTTP status code from the server response
+    console.log(response.data);  // data is the response that was provided by the server
+    console.log(response.status); // status is the HTTP status code from the server response
 
   });
+	
 ```
 
 
