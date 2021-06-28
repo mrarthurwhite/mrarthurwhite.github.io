@@ -90,7 +90,7 @@ export default App;
 
 So the above works. Let us see if we can incorporate Axios. Axios is an http client which makes fetching cleaner, it works both in the browser and with node.js & it automatically transforms json data (no need for `response.json()` followed by a promise chain obtaining the aforementioned json).
 
-1. In your client directory install axios (in our case `use_effect_react_hooks_demo` ![src](https://github.com/mrarthurwhite/use_effect_react_hooks_demo/tree/master/use_effect_initial_demo) ):
+1. In your client directory install axios (in our case `use_effect_react_hooks_demo` directory  ):
 
 `npm install axios`
 
