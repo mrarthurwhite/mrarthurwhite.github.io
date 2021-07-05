@@ -286,7 +286,7 @@ public class App {
 }
 ```
 
-Above is all a developer ought to be able to focus on: the business logic, not the intricacies of bringing in external jar files (you may automate using maven but maven has its own pom file or an xml file which is the Project Object Model with a list of jars (similar to gem installers) , configuring them, creating models, (routine stuff), creating util files, handing session objects. All these are nice to have IF the developer needs to configure at a more granular level but this ought not to be required for basic CRUD operations to the DB from the command line (I have not even gone to the web layer and the MVC framework).
+Above is all a developer ought to be able to focus on: the business logic, not the intricacies of bringing in external jar files (you may automate using maven but maven has its own pom file or an xml file which is the Project Object Model with a list of jars (similar to gem installers) , configuring them, creating models, (routine stuff), creating util files, handing session objects. All these are nice to have IF the developer needs to configure at a more granular level but this ought not to be required for basic CRUD (ahem **CURD**) operations to the DB from the command line (I have not even gone to the web layer and the MVC framework).
 
 All so we can look at the following output in the console:
 
