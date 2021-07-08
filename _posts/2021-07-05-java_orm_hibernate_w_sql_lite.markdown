@@ -10,7 +10,7 @@ If you have read my previous entries I tried to get java to interact with an "in
 
 I am unsure how much work it was because even the basic tasks require a bit more effort than is reasonable when it comes to Java & linux & anything that does not involve getting toyed with by Microsoft.
 
-So I was happy that the in memory databases being used were titled something benign like `H2` (for hydrogen) and `hsql` (for hypersonic sql) since hydrogen and hypersonic go with java related IDEs like `JetBrains Intellij` (see there is a pattern of words indicating speed; atleast they are not using epithet or pejoratives or obscenities or graphically violent language, #grateful). 
+Atleast I was happy that the "in memory" databases being used were titled something *benign* like `H2` (for hydrogen) and `hsql` (for hypersonic sql) since hydrogen and hypersonic go with java related IDEs like `JetBrains Intellij` (see! there is a pattern of words indicating speed; atleast they are not using epithets or pejoratives or obscenities or graphically violent language, #grateful). 
 
 However, getting anything done in `Java` has little to do with speed or ease. Any feedback about the developer unfriendly nature of `Java` & `Linux` or any other non-MS environment yields unkind comments like "well you get what you pay for" etc. As far as free quality products these people have never heard of `ROR`. 
 
