@@ -420,7 +420,7 @@ Following is the console output :
 
 
 And following are the screenshots from the database:
-![users ]( https://mrarthurwhite.github.io/JavaORMwInMemoryDBM2M/imgs/user.jpg)
+![users ]( https://mrarthurwhite.github.io/JavaORMwInMemoryDBM2M/imgs/users.jpg)
 
 ![user_address ]( https://mrarthurwhite.github.io/JavaORMwInMemoryDBM2M/imgs/user_address.jpg)
 
