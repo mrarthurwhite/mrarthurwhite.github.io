@@ -6,7 +6,7 @@ permalink:  java_orm_hibernate_w_sql_lite
 ---
 
 
-If you have read my previous entries I tried to get java to interact with an in memory database previously & was able to somehow make it work here [blog [link](https://mrarthurwhite.github.io/getting_db_persistence_up_with_javas_orm_hibernate)]
+If you have read my previous entries I tried to get java to interact with an "in memory" (rathermore accurately  "embedded") database previously & was able to somehow make it work here [blog [link](https://mrarthurwhite.github.io/getting_db_persistence_up_with_javas_orm_hibernate)]
 
 I am unsure how much work it was because even the basic tasks require a bit more effort than is reasonable when it comes to Java & linux & anything that does not involve getting toyed with by Microsoft.
 
