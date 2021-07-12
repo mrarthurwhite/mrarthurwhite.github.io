@@ -267,7 +267,7 @@ public class App {
 
 ```
 
-Readers might be wondering why go through all the trouble of an ORM when you may as well make `jdbc` and `sql` calls. It defeats the purpose of having an ORM if there are so many moving parts increasing the propensity for errors. 
+Readers might be wondering why go through all the trouble of an ORM ? Does it defeat the purpose of having an ORM if there are so many moving parts increasing the propensity for errors? Why write  a hundred lines of boilerplate code for 2/3 lines of creating a record? These questions may not occur to an ROR developer who truly creates little boilerplate but focuses more on the business logic.
 
 The following attempts a many to many relationship with another table entity (addresses).
 
